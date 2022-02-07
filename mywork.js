@@ -19,7 +19,7 @@ numberInput.addEventListener('input', (e) => {
 
 let isEven = true
 
-colorInput.addEventListener('input', (e) => {
+colorInput.addEventListener('input', (e) => {  //change - изменения цвета по клику
     let clr = e.target.value
     let elems = cont.children
     isEven = !isEven
