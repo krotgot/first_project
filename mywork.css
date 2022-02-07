@@ -1,5 +1,6 @@
 .num {
     border: 2px solid black;
+    border-radius: 10px;
     height: 100px;
     width: 100px;
     display: flex;
